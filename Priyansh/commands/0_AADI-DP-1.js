@@ -103,4 +103,4 @@ module.exports.run = async function ({ args, Users, Threads, api, event, Currenc
     }
  
  
-//MADE BY AADI BABU 
+//MADE BY SHAAN KHAN 
